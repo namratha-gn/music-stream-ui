@@ -3,19 +3,21 @@
 Spotify-clone
 
 ## 🚀 Demo
-Add screenshot or demo link here
+https://namratha-gn.github.io/Spotify-clone-project/
 
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
-- Node.js (if used)
-- etc.
-
+  
 ## 📂 Features
-- Feature 1
-- Feature 2
-- Feature 3
+
+- 🎵 Spotify-inspired user interface
+- 🎨 Clean and modern layout design
+- 📂 Sidebar navigation menu
+- 📀 Playlist / album section layout
+- 🎧 Music player UI at bottom
+- 📱 Responsive design for different screen sizes
+- 🖌 Pixel-perfect styling using pure CSS
 
 ## ⚙️ Installation & Setup
 1. Clone the repository
