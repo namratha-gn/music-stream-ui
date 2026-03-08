@@ -24,9 +24,6 @@ https://namratha-gn.github.io/Spotify-clone-project/
 2. Install dependencies
 3. Run the project
 
-## 📸 Screenshots
-(Add images here)
-
 ## 📈 Future Improvements
 - Add authentication
 - Improve UI
@@ -35,4 +32,4 @@ https://namratha-gn.github.io/Spotify-clone-project/
 ## 🙋‍♀️ Author
 Namratha GN  
 LinkedIn:www.linkedin.com/in/namratha-gn-bb89aa2bb 
-GitHub: 
+GitHub:https://github.com/namratha-gn
