@@ -33,6 +33,6 @@ https://namratha-gn.github.io/Spotify-clone-project/
 - Add responsiveness
 
 ## 🙋‍♀️ Author
-Your Name  
-LinkedIn (optional)  
-GitHub (optional)
+Namratha GN  
+LinkedIn 
+GitHub 
